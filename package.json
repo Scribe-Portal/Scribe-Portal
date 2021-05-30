@@ -1,0 +1,19 @@
+{
+  "name": "scribe-portal",
+  "version": "1.0.0",
+  "description": "scribe portal it is ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scribe-Portal/Scribe-Portal.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scribe-Portal/Scribe-Portal/issues"
+  },
+  "homepage": "https://github.com/Scribe-Portal/Scribe-Portal#readme"
+}
